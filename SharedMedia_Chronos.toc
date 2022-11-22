@@ -1,0 +1,13 @@
+## Interface: 100002
+## Title: SharedMedia Chronos
+## Version: 10.0.2
+## Author: Chronos
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+## Notes: Adds fonts and bar textures to use for other addons that support LibSharedMedia.
+## Category: Miscellaneous/Artwork
+##-------------------------------------------------
+## libs\LibStub\LibStub.lua
+## libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+## libs\LibSharedMedia-3.0\lib.xml
+##-------------------------------------------------
+core.lua
