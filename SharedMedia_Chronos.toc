@@ -1,6 +1,6 @@
-## Interface: 100002
+## Interface: 110000,110002
 ## Title: SharedMedia Chronos
-## Version: 10.0.2
+## Version: 11.0.0
 ## Author: Chronos
 ## OptionalDeps: LibStub, LibSharedMedia-3.0
 ## Notes: Adds fonts and bar textures to use for other addons that support LibSharedMedia.

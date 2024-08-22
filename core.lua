@@ -25,7 +25,8 @@ local MediaType_STATUSBAR = LSM.MediaType.STATUSBAR
 -- -----
 LSM:Register(MediaType_FONT, "Accidental Presidency", "Interface\\Addons\\SharedMedia_Chronos\\font\\Accidental Presidency.ttf")
 LSM:Register(MediaType_FONT, "BigNoodleToo", "Interface\\Addons\\SharedMedia_Chronos\\font\\BigNoodleToo.ttf")
-LSM:Register(MediaType_FONT, "Expressway", "Interface\\Addons\\SharedMedia_Chronos\\font\\Expressway Bold.ttf")
+LSM:Register(MediaType_FONT, "Expressway", "Interface\\Addons\\SharedMedia_Chronos\\font\\Expressway.ttf")
+LSM:Register(MediaType_FONT, "Expressway Bold", "Interface\\Addons\\SharedMedia_Chronos\\font\\Expressway Bold.ttf")
 LSM:Register(MediaType_FONT, "Prototype", "Interface\\Addons\\SharedMedia_Chronos\\font\\Prototype.ttf")
 LSM:Register(MediaType_FONT, "PT Sans Narrow Bold", "Interface\\Addons\\SharedMedia_Chronos\\font\\PTSansNarrow-Bold.ttf")
 LSM:Register(MediaType_FONT, "Steelfish", "Interface\\Addons\\SharedMedia_Chronos\\font\\Steelfish.ttf")
